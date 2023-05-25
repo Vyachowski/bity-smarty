@@ -162,3 +162,7 @@ cython_debug/
 # Visual Studio code files
 
 *.code-workspace
+
+# Other stuff
+
+sandbox.*
